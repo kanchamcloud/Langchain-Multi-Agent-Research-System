@@ -1,0 +1,23 @@
+# Core LLM + Langchain Echo system
+langchain
+langchain-core
+langchain-community
+langchain-openai
+python-dotenv
+streamlit
+
+#Tavily Search Tool
+tavily-python
+
+#Web Scraping
+beautifulsoup4
+readability-lxml
+requests
+trafilatura
+lxml
+
+python-dotenv
+
+
+
+
